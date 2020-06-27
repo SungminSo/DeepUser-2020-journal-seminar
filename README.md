@@ -7,3 +7,4 @@
 - 04.25 : <NLP - NMT> Neural Machine Translation by jointly learning to align and translate
 - 05.02 : <NLP - Attention> Attention is all you need
 
+- 06.27 : <Vision - Fixmatch> FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
