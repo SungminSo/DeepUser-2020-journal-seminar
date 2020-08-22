@@ -14,5 +14,6 @@
 ## Season 2
 
 - 08.08 : <Weight Initialization - LSUV> All You Need Is A Good Init
-- 08.15: <Speech Recognition - CNN>  Speacker Identification And Clustering Using Convolutional Neural Networks
+- 08.15: <Speech Recognition - CNN> Speacker Identification And Clustering Using Convolutional Neural Networks
+- 08.22: <Vision - Image Caption> Show, Attend and Tell Neural Image Caption Generation with Visual Attention
 
