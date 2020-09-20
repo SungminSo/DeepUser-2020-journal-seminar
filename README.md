@@ -14,11 +14,7 @@
 ## Season 2
 
 - 08.08 : <Weight Initialization - LSUV> All You Need Is A Good Init
-
 - 08.15 : <Speech Recognition - CNN> Speacker Identification And Clustering Using Convolutional Neural Networks
-
 - 08.22 : <Vision - Image Caption> Show, Attend and Tell Neural Image Caption Generation with Visual Attention
-
 - 09.05 : <Classification - one-class SVM> One-Class SVMs for Document Classification
-
-  
+- 09.19 : <Vision - Video> SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos
