@@ -18,3 +18,4 @@
 - 08.22 : <Vision - Image Caption> Show, Attend and Tell Neural Image Caption Generation with Visual Attention
 - 09.05 : <Classification - one-class SVM> One-Class SVMs for Document Classification
 - 09.19 : <Vision - Video> SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos
+- 09.26 : <NWS - meta-classification> Classifying the classifier: dissecting the weight space of neural networks
